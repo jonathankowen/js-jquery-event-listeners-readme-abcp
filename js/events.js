@@ -21,5 +21,9 @@ $('img').on("load", function(){
 });  
 }
 
-press
+function pressIt(){
+  $(documentt).on('keydown', function(key){
+    if(key.which===)
+  })
+}
 
