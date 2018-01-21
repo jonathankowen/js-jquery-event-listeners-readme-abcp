@@ -23,7 +23,9 @@ $('img').on("load", function(){
 
 function pressIt(){
   $(documentt).on('keydown', function(key){
-    if(key.which===)
+    if(key.which === 71){
+      
+    }
   })
 }
 
