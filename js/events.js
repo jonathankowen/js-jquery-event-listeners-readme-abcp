@@ -17,7 +17,7 @@ alert("Hey!")
 
 function frameIt(){
 $('img').on("load", function(){
-  
+  class.addClass
 });  
 
 }
